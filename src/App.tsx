@@ -22,7 +22,7 @@ function App() {
   </div>
   <div className='flex justify-around mx-48 mt-8 text-white'>
   <a className='bg-slate-600 p-2 rounded-lg' href="https://www.linkedin.com/in/manuel-jimenez-a86504217/">LinkedIn</a>
-  <a className='bg-slate-600 p-2 rounded-lg' href="">Github</a>
+  <a className='bg-slate-600 p-2 rounded-lg' href="https://github.com/Manuel-jimenez10">Github</a>
   <a className='bg-slate-600 p-2 rounded-lg' href="">manuel28042005@gmail.com</a>
   </div>
   </section>
